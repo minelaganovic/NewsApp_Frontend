@@ -1,6 +1,6 @@
 # ___NewsApp___
 
-This is a full stack news app application built with React Native and Node JS.
+This is a full stack news application built with React Native and Node JS.
 
 # Features
 - User-friendly application for all types of people.
