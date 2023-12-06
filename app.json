@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "newsapp",
+    "slug": "newsapp",
+    "version": "1.0.0",
+    "description": "Ovo je aplikacija.",
+    "icon": "./assets/react-icon.png",
+    "jsEngine": "hermes",
+    "orientation": "portrait",
+    "splash": {
+      "image": "./assets/react-splash-screen.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "updates": {
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/0b1ea330-17a7-45d5-bea0-e910f4e1033b"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/splash.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0b1ea330-17a7-45d5-bea0-e910f4e1033b"
+      }
+    },
+    "owner": "minela",
+    "runtimeVersion": "1.0.0"
+  },
+  "name": "newsapp"
+}
