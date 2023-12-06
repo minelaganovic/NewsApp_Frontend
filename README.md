@@ -1,7 +1,7 @@
 # ___NewsApp___
 
 This is a full stack news application built with React Native and Node JS. 
-<a href="https://github.com/minelaganovic/NewsApp_Backend">Link to the backend of the project </a>
+Link to the backend of the project: <a href="https://github.com/minelaganovic/NewsApp_Backend"> Backend  </a>
 
 # Features
 - User-friendly application for all types of people.
