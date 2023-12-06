@@ -23,4 +23,5 @@ This is a full stack news application built with React Native and Node JS.
 ## The others screens
 
 <img src="assets/image3.png" alt="image">
-
+<a href="https://github.com/minelaganovic/NewsApp_Backend">Link to the backend project
+</a>
