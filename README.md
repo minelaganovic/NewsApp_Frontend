@@ -1,4 +1,4 @@
-# NewsApp_Frontend
+# ___NewsApp___
 
 This is a full stack news app application built with React Native and Node JS.
 
