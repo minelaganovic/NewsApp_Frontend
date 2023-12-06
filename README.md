@@ -1,6 +1,9 @@
 # NewsApp_Frontend
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+<img src="assets/image1.png" alt="image">
+<img src="assets/image2.png" alt="image">
+<img src="assets/image3.png" alt="image">
 
 # Getting Started
 
